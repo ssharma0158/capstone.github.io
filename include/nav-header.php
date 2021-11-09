@@ -12,10 +12,10 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="http://localhost/DreamTeam_Capstone/" style="color:#EDEDED;"><strong>C</strong>ode on <strong>C</strong>loud</a>
+      <a class="navbar-brand" href="http://localhost/DreamTeam_Capstone/capstone.github.io/" style="color:#EDEDED;"><strong>C</strong>ode on <strong>C</strong>loud</a>
   
-      <a class="navbar-brand" href="http://localhost/DreamTeam_Capstone/contact.php" style="color:#EDEDED;">Contact</a>
-      <a class="navbar-brand" href="http://localhost/DreamTeam_Capstone/about.php" style="color:#EDEDED;">About</a>
+      <a class="navbar-brand" href="http://localhost/DreamTeam_Capstone/capstone.github.io/contact.php" style="color:#EDEDED;">Contact</a>
+      <a class="navbar-brand" href="http://localhost/DreamTeam_Capstone/capstone.github.io/about.php" style="color:#EDEDED;">About</a>
   
   
   </div>

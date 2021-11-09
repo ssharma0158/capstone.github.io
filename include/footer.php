@@ -7,9 +7,9 @@
                     <div class="col-sm-6 col-md-3 item">
                         <h3>Services</h3>
                         <ul>
-                            <li><a href="http://localhost/DreamTeam_Capstone/">Compilers</a></li>
-                            <li><a href="http://localhost/DreamTeam_Capstone/">Tutorials</a></li>
-                            <li><a href="http://localhost/DreamTeam_Capstone/contact.php">Conatct Us</a></li>
+                            <li><a href="http://localhost/DreamTeam_Capstone/capstone.github.io/">Compilers</a></li>
+                            <li><a href="http://localhost/DreamTeam_Capstone/capstone.github.io/">Tutorials</a></li>
+                            <li><a href="http://localhost/DreamTeam_Capstone/capstone.github.io/contact.php">Conatct Us</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-md-3 item">
